@@ -9,6 +9,7 @@ I believe that I would be a great fit for any team because I play well with othe
 
 I am most experienced with writing code in Java, Python and JavaScript, although I am quick at picking up new languages to work with.
 
+[Check out my website](https://MarkXVI.github.io)
 ---
 
 ### :toolbox: Languages and Tools
@@ -67,4 +68,4 @@ I am most experienced with writing code in Java, Python and JavaScript, although
  <summary><h3> :computer: Mark's Coding Journey</h3></summary>
     Started with web development, realised I loved coding and went to study at Kristianstads University. I graduate with a Bachelor degree for Software development in June 2023. -->
 
-[website]: https://MarkXVI.com
+[Check out my website](https://MarkXVI.github.io)
