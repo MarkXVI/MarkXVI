@@ -67,5 +67,3 @@ I am most experienced with writing code in Java, Python and JavaScript, although
 <details>
  <summary><h3> :computer: Mark's Coding Journey</h3></summary>
     Started with web development, realised I loved coding and went to study at Kristianstads University. I graduate with a Bachelor degree for Software development in June 2023. -->
-
-[Check out my website](https://MarkXVI.github.io)
