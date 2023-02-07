@@ -1,6 +1,6 @@
 # :japanese_goblin: Mark Harvey :rabbit:
 
-**:art: `Artistic Developer (Software Developer / Artist)` :paintbrush:**
+**:art: `Artistic Developer (Software Developer / Painter)` :paintbrush:**
 
 
 My name is Mark Harvey and I am a software developer and an artistic person in love with my craft. I am based out of Helsingborg, Sweden and I am soon to graduate with a Bachelor degree for software developement from Kristianstad University.
