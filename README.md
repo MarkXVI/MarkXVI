@@ -58,7 +58,9 @@ I am most experienced with writing code in Java, Python and JavaScript, although
 
 ### :chart_with_upwards_trend: Statistics
 
-![MarkXVI's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkXVI&show_icons=true&theme=gruvbox)
+![MarkXVI's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkXVI&show_icons=true&theme=synthwave)
+
+[![MarkXVI's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkXVI&layout=compact)](https://github.com/MarkXVI/github-readme-stats)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=MarkXVI&theme=gruvbox&border_radius=4.5) -->
 
