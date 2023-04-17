@@ -9,7 +9,7 @@ I believe that I would be a great fit for any team because I play well with othe
 
 I am most experienced with writing code in Java, Python and JavaScript, although I am quick at picking up new languages to work with.
 
-[Check out my website](https://MarkXVI.github.io)
+<!-- [Check out my website](https://MarkXVI.github.io) -->
 ---
 
 ### :toolbox: Languages and Tools
