@@ -3,13 +3,13 @@
 **:art: `Artistic Developer (Software Developer / Painter)` :paintbrush:**
 
 
-My name is Mark Harvey and I am a software developer and an artistic person in love with my craft. I am based out of Helsingborg, Sweden and I am soon to graduate with a Bachelor degree for software developement from Kristianstad University.
+My name is Mark Harvey and I am a software developer and an artistic person in love with my craft. I am based out of Helsingborg, Sweden and I graduated with a Bachelor degree for software developement from Kristianstad University.
 
 I believe that I would be a great fit for any team because I play well with others, I can adapt quickly to resolve many situations and I am very willing to work to get any job done. I am also a creative, fast learning programmer that is eager for new way and better ways to improve.
 
-I am most experienced with writing code in Java, Python and JavaScript, although I am quick at picking up new languages to work with.
+I am most experienced with writing code in Python, JavaScript and Java, although I am quick at picking up new languages to work with.
 
-[Check out my website](https://MarkXVI.github.io)
+[Check out my website](https://MarkXVI.github.io) **(work in progress)**
 ---
 
 ### :toolbox: Languages and Tools
@@ -21,8 +21,6 @@ I am most experienced with writing code in Java, Python and JavaScript, although
 <img align="left" alt="JavaScript" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
-<img align="left" alt="threejs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
 
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
